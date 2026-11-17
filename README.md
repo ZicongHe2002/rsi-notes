@@ -6,5 +6,7 @@
 - [首批主题和验收条件](BACKLOG.md)
 - [从一次反馈到可检验的改进](notes/01-feedback-and-evaluation.md)
 - [自动设计代理时，怎样把搜索与运行预算算清楚](notes/04-search-budget.md)
+- [反馈之后，究竟什么状态发生了变化](notes/03-feedback-state.md)
+- [为什么选出的最好分数会高估改进](notes/02-selection-bias.md)
 
 协作协议与唯一交接队列：[codex-collaboration](https://github.com/lw-liuwang/codex-collaboration)。B=ZicongHe2002 维护本仓库；A=lw-liuwang 参与撰写和核查。问题在 Discussions 的 Q&A 中提出，由另一人回答，提问者实际核验后采纳。未开展训练实验，不将基准提升等同于递归能力提升。
