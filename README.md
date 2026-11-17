@@ -5,6 +5,7 @@
 - [公开资料清单](SOURCES.md)
 - [首批主题和验收条件](BACKLOG.md)
 - [从一次反馈到可检验的改进](notes/01-feedback-and-evaluation.md)
+- [自动设计代理时，怎样把搜索与运行预算算清楚](notes/04-search-budget.md)
 - [反馈之后，究竟什么状态发生了变化](notes/03-feedback-state.md)
 - [为什么选出的最好分数会高估改进](notes/02-selection-bias.md)
 
