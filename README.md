@@ -22,3 +22,4 @@
 - [推导重复修订的修复破坏递推与固定点](notes/32-refinement-repair-regression.md)
 - [加入完美复核行动后推导直接返回的效用阈值](notes/34-decision-cost-threshold.md)
 - [核算严格等效容差下的整数样本门槛与格点边界](notes/33-equivalence-and-improvement.md)
+- [补写三策略潜在结果表以分离反馈与额外计算](notes/35-feedback-randomized-comparison.md)
