@@ -15,3 +15,4 @@
 
 - [通过检查的候选为什么仍可能大多错误](notes/08-verifier-base-rate.md)
 - [一次改进与改进能力提升怎样区分](notes/07-recursive-evidence.md)
+- [同一代理实例评多题为何要明确状态重置](notes/54-shared-agent-state.md)
