@@ -19,3 +19,4 @@
 - [平均延迟相同，截止时间成功率为何倒转](notes/29-deadline-success.md)
 - [反复查看测试结果后再决定停止，会怎样改变假阳性](notes/30-repeated-testing-stop.md)
 - [核算十步工作流末步改善的成功增益与失败即停成本](notes/31-workflow-joint-success.md)
+- [推导重复修订的修复破坏递推与固定点](notes/32-refinement-repair-regression.md)
