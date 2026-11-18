@@ -15,3 +15,4 @@
 
 - [通过检查的候选为什么仍可能大多错误](notes/08-verifier-base-rate.md)
 - [一次改进与改进能力提升怎样区分](notes/07-recursive-evidence.md)
+- [工具版本变了，过去经验还能直接复用吗](notes/37-memory-applicability.md)
