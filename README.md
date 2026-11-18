@@ -24,3 +24,4 @@
 - [核算严格等效容差下的整数样本门槛与格点边界](notes/33-equivalence-and-improvement.md)
 - [补写三策略潜在结果表以分离反馈与额外计算](notes/35-feedback-randomized-comparison.md)
 - [用条件路径核算误拒误放与串行后备成本](notes/36-fallible-fallback-router.md)
+- [各批次P50为什么不能恢复总体P50](notes/83-quantile-aggregation.md)
