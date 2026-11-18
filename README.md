@@ -15,3 +15,4 @@
 
 - [通过检查的候选为什么仍可能大多错误](notes/08-verifier-base-rate.md)
 - [一次改进与改进能力提升怎样区分](notes/07-recursive-evidence.md)
+- [一次行动为何可能生成四次模型输出](notes/44-retry-filter-budget.md)
