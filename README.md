@@ -15,3 +15,4 @@
 
 - [通过检查的候选为什么仍可能大多错误](notes/08-verifier-base-rate.md)
 - [一次改进与改进能力提升怎样区分](notes/07-recursive-evidence.md)
+- [同一组JSON字段为何可能被读成不同答案](notes/59-json-field-order.md)
