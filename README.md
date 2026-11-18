@@ -15,3 +15,4 @@
 
 - [通过检查的候选为什么仍可能大多错误](notes/08-verifier-base-rate.md)
 - [一次改进与改进能力提升怎样区分](notes/07-recursive-evidence.md)
+- [输出字典有两个候选为何不代表只尝试两次](notes/43-acronym-history-ledger.md)
