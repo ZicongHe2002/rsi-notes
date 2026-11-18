@@ -21,3 +21,4 @@
 - [核算十步工作流末步改善的成功增益与失败即停成本](notes/31-workflow-joint-success.md)
 - [推导重复修订的修复破坏递推与固定点](notes/32-refinement-repair-regression.md)
 - [加入完美复核行动后推导直接返回的效用阈值](notes/34-decision-cost-threshold.md)
+- [模型失败补成空字段后评分还能区分什么](notes/63-query-failure-observability.md)
