@@ -24,3 +24,4 @@
 - [核算严格等效容差下的整数样本门槛与格点边界](notes/33-equivalence-and-improvement.md)
 - [补写三策略潜在结果表以分离反馈与额外计算](notes/35-feedback-randomized-comparison.md)
 - [用条件路径核算误拒误放与串行后备成本](notes/36-fallible-fallback-router.md)
+- [更换参照基线为何会翻转时延汇总排序](notes/78-geometric-baseline-invariance.md)
