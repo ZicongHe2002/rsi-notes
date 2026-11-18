@@ -16,3 +16,4 @@
 - [通过检查的候选为什么仍可能大多错误](notes/08-verifier-base-rate.md)
 - [一次改进与改进能力提升怎样区分](notes/07-recursive-evidence.md)
 - [专挑可疑候选审计，怎样还原总体错误率](notes/28-stratified-audit.md)
+- [平均延迟相同，截止时间成功率为何倒转](notes/29-deadline-success.md)
