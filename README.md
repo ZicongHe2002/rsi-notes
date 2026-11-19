@@ -5,6 +5,7 @@
 - [公开资料清单](SOURCES.md)
 - [首批主题和验收条件](BACKLOG.md)
 - [从一次反馈到可检验的改进](notes/01-feedback-and-evaluation.md)
+- [减去基线为何通常不改策略梯度，样本均值又为何例外](notes/101-policy-gradient-baselines.md)
 - [同一道题重复四次，为什么不等于四道新题](notes/06-repeated-task-uncertainty.md)
 - [累计成功率上升，是否说明代理越来越会做题](notes/05-cumulative-success.md)
 - [自动设计代理时，怎样把搜索与运行预算算清楚](notes/04-search-budget.md)
