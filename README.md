@@ -31,3 +31,4 @@
 - [摘要看起来完整，怎样检验它是否足够](notes/41-summary-sufficiency-audit.md)
 - [自归一化重要性采样的有限样本偏差](notes/97-self-normalized-importance.md)
 - [conformal分位数的取整与总体覆盖范围](notes/96-conformal-rank-coverage.md)
+- [有限池无放回零错误审计与二项上界的区别](notes/90-finite-pool-audit.md)
