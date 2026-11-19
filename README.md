@@ -36,3 +36,4 @@
 - [AUC的配对数量与原始样本不确定性](notes/92-auc-shared-pairs.md)
 - [经验校准相同而Brier不同的三项分解](notes/89-brier-resolution.md)
 - [平均预测概率与平均模型损失的不同操作](notes/93-mixture-log-loss.md)
+- [均值估计变准为何不消除下一次结果的波动](notes/94-mean-and-prediction-interval.md)
