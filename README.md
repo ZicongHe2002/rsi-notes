@@ -24,6 +24,7 @@
 - [反复查看测试结果后再决定停止，会怎样改变假阳性](notes/30-repeated-testing-stop.md)
 - [核算十步工作流末步改善的成功增益与失败即停成本](notes/31-workflow-joint-success.md)
 - [推导重复修订的修复破坏递推与固定点](notes/32-refinement-repair-regression.md)
+- [贪心更新为何可能退步，Q估计误差怎样进入价值界](notes/103-approximate-policy-improvement.md)
 - [加入完美复核行动后推导直接返回的效用阈值](notes/34-decision-cost-threshold.md)
 - [不知道未来任务比例时，随机选择怎样降低最坏期望遗憾](notes/100-minimax-regret-randomization.md)
 - [核算严格等效容差下的整数样本门槛与格点边界](notes/33-equivalence-and-improvement.md)
