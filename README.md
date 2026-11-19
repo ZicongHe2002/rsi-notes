@@ -17,6 +17,7 @@
 
 - [通过检查的候选为什么仍可能大多错误](notes/08-verifier-base-rate.md)
 - [一次改进与改进能力提升怎样区分](notes/07-recursive-evidence.md)
+- [奖励减去KL代价时，最优策略为何是对旧策略指数重加权](notes/102-kl-regularized-policy.md)
 - [专挑可疑候选审计，怎样还原总体错误率](notes/28-stratified-audit.md)
 - [平均延迟相同，截止时间成功率为何倒转](notes/29-deadline-success.md)
 - [平均损失更低，为什么最坏一成任务仍可能更差](notes/99-cvar-tail-objective.md)
