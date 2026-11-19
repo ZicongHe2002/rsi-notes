@@ -18,6 +18,7 @@
 - [一次改进与改进能力提升怎样区分](notes/07-recursive-evidence.md)
 - [专挑可疑候选审计，怎样还原总体错误率](notes/28-stratified-audit.md)
 - [平均延迟相同，截止时间成功率为何倒转](notes/29-deadline-success.md)
+- [平均损失更低，为什么最坏一成任务仍可能更差](notes/99-cvar-tail-objective.md)
 - [反复查看测试结果后再决定停止，会怎样改变假阳性](notes/30-repeated-testing-stop.md)
 - [核算十步工作流末步改善的成功增益与失败即停成本](notes/31-workflow-joint-success.md)
 - [推导重复修订的修复破坏递推与固定点](notes/32-refinement-repair-regression.md)
