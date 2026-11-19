@@ -30,3 +30,4 @@
 - [反复查看后停止时仍有效的似然比证据](notes/95-anytime-valid-evidence.md)
 - [摘要看起来完整，怎样检验它是否足够](notes/41-summary-sufficiency-audit.md)
 - [自归一化重要性采样的有限样本偏差](notes/97-self-normalized-importance.md)
+- [conformal分位数的取整与总体覆盖范围](notes/96-conformal-rank-coverage.md)
