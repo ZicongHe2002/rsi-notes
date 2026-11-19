@@ -33,3 +33,4 @@
 - [conformal分位数的取整与总体覆盖范围](notes/96-conformal-rank-coverage.md)
 - [有限池无放回零错误审计与二项上界的区别](notes/90-finite-pool-audit.md)
 - [平均随机F1与先平均计数的不同目标](notes/91-expected-f1.md)
+- [AUC的配对数量与原始样本不确定性](notes/92-auc-shared-pairs.md)
