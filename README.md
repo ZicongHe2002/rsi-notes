@@ -29,3 +29,4 @@
 - [用条件路径核算误拒误放与串行后备成本](notes/36-fallible-fallback-router.md)
 - [反复查看后停止时仍有效的似然比证据](notes/95-anytime-valid-evidence.md)
 - [摘要看起来完整，怎样检验它是否足够](notes/41-summary-sufficiency-audit.md)
+- [自归一化重要性采样的有限样本偏差](notes/97-self-normalized-importance.md)
